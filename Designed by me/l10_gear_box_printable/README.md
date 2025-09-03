@@ -15,7 +15,7 @@ The purpose of this work is **educational and practical**, allowing the model to
   - **Join** → merge bodies that must be printed as one piece  
   - **Assemble** → mount gears to shafts and simulate movement after printing  
 
-- Basic tolerances (≈0.2–0.3 mm) should be considered for smooth rotation.   
+- Basic tolerances (≈0.3–0.4 mm) should be considered for smooth rotation.   
 
 ---
 ✦ Created as part of my 3D design learning process.
